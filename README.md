@@ -1,5 +1,5 @@
 # -
-2020 软件工程 赵龙 关肖唯 杨锦文 姚树基
+2020 软件工程 
 刷题板块需要管理员添加习题，请浏览器输入 localhost8000/admin
 输入管理员账号密码，进入以后，选择添加 subject添加习题，
 创建管理员账号的方法：  命令行输入 python manage.py createsuperuser
